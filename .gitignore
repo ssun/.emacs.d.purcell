@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /semanticdb/
 /url/cache
 /.emacs.desktop
@@ -44,7 +43,8 @@ site-lisp/package/
 /recentf
 /viper
 /projectile-bookmarks.eld
-=======
+
+# C++ ignores
 # Compiled Object files
 *.slo
 *.lo
@@ -74,4 +74,3 @@ site-lisp/package/
 *.exe
 *.out
 *.app
->>>>>>> f8cddca38a6efa4f6593a68daf380710e56f869b
