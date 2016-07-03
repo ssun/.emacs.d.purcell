@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /semanticdb/
 /url/cache
 /.emacs.desktop
@@ -43,3 +44,34 @@ site-lisp/package/
 /recentf
 /viper
 /projectile-bookmarks.eld
+=======
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> f8cddca38a6efa4f6593a68daf380710e56f869b
